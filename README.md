@@ -4,7 +4,6 @@
 Implementation of Flappy Bird reinforcement learning agent by using two approaches:
   * Q learning (2000 episodes - trained about 2 minutes, 150 000 episodes - trained 7 hours)
   * Monte Carlo Q learning (2000 episodes - trained about 9 minutes, 50 000 episodes - don't know the exact time, 150 000 episodes - trained 11.5 hours)
-  * Deep reinforcement learning (announced)
   
   In folder [basic-q-learning](https://github.com/reinai/FlappyBirdAI/tree/master/FlappyBird/basic-q-learning) we trained our model with basicq_2000.txt and basicq_150000.txt, so just run runBasicQLearning.py and open one of these files, and in folder [monte-carlo-q-learning](https://github.com/reinai/FlappyBirdAI/tree/master/FlappyBird/monte-carlo-q-learning) with monte_2000.txt and results_150000.txt and run runMonteCarloQLearning.py.
 
